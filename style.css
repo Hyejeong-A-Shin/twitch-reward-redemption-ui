@@ -1,0 +1,29 @@
+#cutest_viewer {
+    position: relative;
+    left:50%;
+    padding-top: 28px;
+    font-size: 30px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+}
+
+#best_viewer {
+    position: absolute;
+    top: 0px;
+    padding-left: 2%;
+    font-size: 30px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+}
+
+#best {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+#cutest {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+}
